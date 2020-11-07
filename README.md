@@ -6,8 +6,6 @@
 - Users can only edit blog posts they created
 - You can find images here: https://imgur.com/a/P8DW9k8
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/P8DW9k8"  ><a href="//imgur.com/a/P8DW9k8">Blog CRUD App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 ### Technology stack: 
 - Built using Ruby on Rails and PostgreSQL on the backend
 - Built using JavaScript, Vue.js, HTML, and CSS on the front end
